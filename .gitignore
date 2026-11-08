@@ -1,0 +1,12 @@
+# Private: the owner password and everyone's accounts and bookings
+owner_login.txt
+*.db
+*.db-wal
+*.db-shm
+
+# Uploaded posters
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
